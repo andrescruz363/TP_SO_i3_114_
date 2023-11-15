@@ -1,0 +1,44 @@
+Cruz Andres
+
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Radmin VPN:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : fdfd::1a80:c74b
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::ddaf:6615:4d49:d5ef%15
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 26.128.199.75
+   M scara de subred . . . . . . . . . . . . : 255.0.0.0
+   Puerta de enlace predeterminada . . . . . : 26.0.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::94e7:7098:4a1d:f350%11
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::58ee:d1bf:66d1:3bed%10
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.120
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+
+Adaptador de Ethernet Conexi¢n de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2001:0:2877:7aa:2c1d:1bad:3f57:fe87
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::2c1d:1bad:3f57:fe87%9
+   Puerta de enlace predeterminada . . . . . : 
+
+18:11
