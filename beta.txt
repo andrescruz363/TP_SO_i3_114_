@@ -42,3 +42,31 @@ Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
    Puerta de enlace predeterminada . . . . . : 
 
 18:11
+Cortés Abril
+
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¿fico para la conexi¿n. . :
+   V¿nculo: direcci¿n IPv6 local. . . : fe80::c736:6d32:c4c2:cb42%10
+   Direcci¿n IPv4. . . . . . . . . . . . . . : 192.168.1.39
+   M¿scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec¿fico para la conexi¿n. . :
+   V¿nculo: direcci¿n IPv6 local. . . : fe80::acf8:9df6:c886:9b52%6
+   Direcci¿n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M¿scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet vEthernet (Default Switch):
+
+   Sufijo DNS espec¿fico para la conexi¿n. . :
+   V¿nculo: direcci¿n IPv6 local. . . : fe80::4b8d:be37:2b25:f569%21
+   Direcci¿n IPv4. . . . . . . . . . . . . . : 172.31.64.1
+   M¿scara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . :
+14:24
