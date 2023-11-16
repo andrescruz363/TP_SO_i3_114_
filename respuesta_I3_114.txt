@@ -1,3 +1,7 @@
+Abril Cortés
+Agustina Bilotta
+Cruz Andres
+
 a- El master/main queda compuesto por 7 archivos, CPUAlfa, CPUBeta, CPUGamma, Readme, beta y datos.
 
 b- Beta puede ver todos los cambios que se realizaron, incluidos los cambios en la rama de Gamma.
