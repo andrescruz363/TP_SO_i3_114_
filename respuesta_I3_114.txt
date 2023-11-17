@@ -12,3 +12,23 @@ c- git checkout Cortes
    git pull origin main
    git merge Cortes
    git push origin main
+
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+No, no se ven los datos actualizados dentro de cada rama, hay que contribuirlos para poder ver la rama con las actualizaciones.
+Los datos del tp completo (hasta el ultimo punto) quedan SOLO en la rama principal
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+
+Se mergearon archivos de la rama y se borraron los existentes, pero pudimos recuperar la información anterior al merge utilizando el comando git revert
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+ipconfig
+(Copie lo retornado)
+git clone (con el URL de la rama de beta)
+git checkout cruz (rama de beta)
+vi beta.txt (para editar el archivo)
+Pegue lo del "ipconfig"
+git add beta.txt
+git commit -m "Datos del IP de gamma"
+git push origin cruz (para subirlo a la misma rama)
