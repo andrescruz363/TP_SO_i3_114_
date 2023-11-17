@@ -32,3 +32,12 @@ Pegue lo del "ipconfig"
 git add beta.txt
 git commit -m "Datos del IP de gamma"
 git push origin cruz (para subirlo a la misma rama)
+
+
+ALFA - Agustina Bilotta
+G) g- git pull
+git checkout cruz
+modificación del archivo
+git add .
+git commit -m "modificación"
+git push origin cruz
